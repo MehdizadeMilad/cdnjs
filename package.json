@@ -1,0 +1,25 @@
+{
+  "name": "cdnjs",
+  "version": "1.0.0",
+  "description": "Command-line Node.js application to query cdnjs.com",
+  "main": "bin/index.js",
+  "bin": {
+    "cdnjs": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "mocha ."
+  },
+  "keywords": [],
+  "author": "Mehdizade Milad",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
+    "ora": "^4.0.3",
+    "yargs": "^15.0.2"
+  }
+}
