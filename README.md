@@ -1,2 +1,2 @@
 # cdnjs
-Command-line Node.js application to query cdnjs.com
+Command-line Node.js application to query cdnjs.com API
