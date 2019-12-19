@@ -1,10 +1,8 @@
 #
 
-Command-line Node.js application to query cdnjs.com API
-
 # [cdnjs](https://github.com/MehdizadeMilad/cdnjs) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/facebook/react/blob/master/LICENSE)
 
-React is a Node.JS library to query CDNJS.com's API.
+CDNJS is a Node.JS package to query [cdnjs](httsp://cdnjs.com) API. It can be used globally on your command line.
 
 ## Installation
 
