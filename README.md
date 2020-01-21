@@ -20,7 +20,7 @@ to find font-awesome's Cloudflare CDN address:
 $ cdnjs -p font-awesome
 ```
 
-This example will render "Hello Taylor" into a container on the page.
+This example will render following result (just a fraction of it):
 
 ```
 font-awesome => https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
